@@ -11,7 +11,7 @@ def add_element_to_end_of_array(ice_cream, strawberry)
 end
 
 def add_element_to_start_of_array(ice_cream, strawberry)
-  ice_cream = ["oreo", "vanilla"]
+  ice_cream
   ice_cream.unshift("strawberry")
   puts add_element_to_start_of_array(ice_cream, strawberry)
 end
