@@ -32,4 +32,5 @@ end
 
 def retrieve_last_element_from_array(ice_cream)
   x = ice_cream.count
+  ice_cream
 end
