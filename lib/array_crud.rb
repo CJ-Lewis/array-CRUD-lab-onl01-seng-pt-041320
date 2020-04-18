@@ -32,7 +32,7 @@ end
 
 def retrieve_element_from_index(ice_cream, 2))
   ice_cream = ["oreo", "vanilla", "chocolate", "neopolitan"]
-  index_number = 2
+  ice_cream
   puts retrieve_element_from_index(ice_cream, 2)
 end
 
