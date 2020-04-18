@@ -27,9 +27,7 @@ def retrieve_element_from_index(array, index_numer)
 end
 
 def retrieve_first_element_from_array(ice_cream)
-  ice_cream = ["vanilla", "chocolate"]
   ice_cream[0]
-  puts retrieve_first_element_from_array(ice_cream)
 end
 
 def retrieve_last_element_from_array(ice_cream)
