@@ -31,5 +31,5 @@ def retrieve_first_element_from_array(ice_cream)
 end
 
 def retrieve_last_element_from_array(ice_cream)
-  ice_cream[2]
+  x = ice_cream.count
 end
