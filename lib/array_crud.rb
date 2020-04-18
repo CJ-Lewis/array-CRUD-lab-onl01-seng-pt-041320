@@ -19,7 +19,7 @@ def remove_element_from_end_of_array(ice_cream)
 end
 
 def remove_element_from_start_of_array(ice_cream)
-  ice_cream.shift("vanilla")
+  ice_cream.shift
 end
 
 def retrieve_element_from_index(array, index_numer)
