@@ -15,9 +15,7 @@ def add_element_to_start_of_array(ice_cream, strawberry)
 end
 
 def remove_element_from_end_of_array(ice_cream)
-  ice_cream = ["strawberry", "chocolate"]
-  strawberry_cream = ice_cream.pop
-  puts remove_element_from_end_of_array(ice_cream)
+  ice_cream.pop
 end
 
 def remove_element_from_start_of_array(ice_cream)
