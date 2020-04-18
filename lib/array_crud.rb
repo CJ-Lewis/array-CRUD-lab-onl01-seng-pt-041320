@@ -19,9 +19,7 @@ def remove_element_from_end_of_array(ice_cream)
 end
 
 def remove_element_from_start_of_array(ice_cream)
-  ice_cream = ["vanilla", "oreo", "strawberry"]
   ice_cream.shift("vanilla")
-  puts remove_element_from_start_of_array(ice_cream)
 end
 
 def retrieve_element_from_index(array, index_numer)
