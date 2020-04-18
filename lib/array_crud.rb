@@ -7,9 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(ice_cream, strawberry)
-
   ice_cream << "strawberry"
-  puts add_element_to_end_of_array(ice_cream, strawberry)
 end
 
 def add_element_to_start_of_array(ice_cream, strawberry)
