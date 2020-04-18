@@ -30,8 +30,8 @@ def remove_element_from_start_of_array(ice_cream)
   puts remove_element_from_start_of_array(ice_cream)
 end
 
-def retrieve_element_from_index(ice_cream, index_numer)
-  ice_cream[2]
+def retrieve_element_from_index(array, index_numer)
+  array[index_number]
 end
 
 def retrieve_first_element_from_array(ice_cream)
