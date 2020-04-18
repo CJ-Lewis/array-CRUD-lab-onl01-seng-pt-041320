@@ -30,7 +30,7 @@ def remove_element_from_start_of_array(ice_cream)
   puts remove_element_from_start_of_array(ice_cream)
 end
 
-def retrieve_element_from_index(ice_cream, 2)
+def retrieve_element_from_index(ice_cream, [2])
   ice_cream = ["oreo", "vanilla", "chocolate", "neopolitan"]
   ice_cream[2]
   puts retrieve_element_from_index(ice_cream, 2)
