@@ -11,7 +11,7 @@ def add_element_to_end_of_array(ice_cream, strawberry)
 end
 
 def add_element_to_start_of_array(ice_cream, strawberry)
-  ice_cream.unshift("strawberry")
+  ice_cream.unshift(strawberry)
 end
 
 def remove_element_from_end_of_array(ice_cream)
@@ -22,7 +22,7 @@ def remove_element_from_start_of_array(ice_cream)
   ice_cream.shift
 end
 
-def retrieve_element_from_index(array, index_numer)
+def retrieve_element_from_index(array, index_number)
   array[index_number]
 end
 
